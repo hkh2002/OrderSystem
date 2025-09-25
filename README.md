@@ -23,3 +23,12 @@
 - Windows Forms
 - SHA256 加密
 - SQL Server (內建資料庫)
+
+---
+
+## 成果展示
+![管理員登入](https://github.com/user-attachments/assets/5bbf2827-788f-4ce7-aa18-b1b20cac9d9f)<br>
+![桌次登入](https://github.com/user-attachments/assets/459e8726-04ca-48dd-b65a-66dfa560abe5)
+
+
+
